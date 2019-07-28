@@ -1,0 +1,60 @@
+
+.capalogo{
+	background-image:url("capalogo.jpg");
+	height: 200px;
+	background-size: contain;
+}
+.faixa{
+	background-image: url("faixa.png");
+	height: 140px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.social{
+	margin-top: 90px;
+	float: right;
+	margin-right:20px;
+}
+.foto1{
+	background-image: url("foto1.jpg");
+	height: 300px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.foto2{
+	background-image: url("foto2.jpg");
+	height: 300px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.foto3{
+	background-image: url("foto3.jpg");
+	height: 300px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+h1{
+	margin-left: 12px;
+	color: blue;
+}
+.foto5{
+	background-image: url("foto5.jpg");
+	height: 300px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.foto6{
+	background-image: url("foto6.jpg");
+	height: 300px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.foto7{
+	background-image: url("foto7.jpg");
+	height: 300px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.destaques{
+	background-color: #E6E6E6;
+}
